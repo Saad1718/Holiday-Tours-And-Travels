@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Paradise — Kerala Holiday Packages (Clone)</title>
+  <title>Paradise — Holiday Packages (Clone)</title>
   <meta name="description" content="Sample single-file responsive clone template for a Kerala tours & travels website." />
   <style>
     /* --------------------
